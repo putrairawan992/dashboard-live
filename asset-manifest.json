@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dashboard-live/static/css/main.771ac1a5.chunk.css",
+    "main.js": "/dashboard-live/static/js/main.840277b5.chunk.js",
+    "main.js.map": "/dashboard-live/static/js/main.840277b5.chunk.js.map",
+    "runtime~main.js": "/dashboard-live/static/js/runtime~main.2b78cc3c.js",
+    "runtime~main.js.map": "/dashboard-live/static/js/runtime~main.2b78cc3c.js.map",
+    "static/css/2.d0176e96.chunk.css": "/dashboard-live/static/css/2.d0176e96.chunk.css",
+    "static/js/2.aaabc5cd.chunk.js": "/dashboard-live/static/js/2.aaabc5cd.chunk.js",
+    "static/js/2.aaabc5cd.chunk.js.map": "/dashboard-live/static/js/2.aaabc5cd.chunk.js.map",
+    "index.html": "/dashboard-live/index.html",
+    "precache-manifest.8d15908da89861aad6ab5ec5580d560f.js": "/dashboard-live/precache-manifest.8d15908da89861aad6ab5ec5580d560f.js",
+    "service-worker.js": "/dashboard-live/service-worker.js",
+    "static/css/2.d0176e96.chunk.css.map": "/dashboard-live/static/css/2.d0176e96.chunk.css.map",
+    "static/css/main.771ac1a5.chunk.css.map": "/dashboard-live/static/css/main.771ac1a5.chunk.css.map",
+    "static/media/marc.jpg": "/dashboard-live/static/media/marc.8880a65c.jpg",
+    "static/media/sidebar-1.jpg": "/dashboard-live/static/media/sidebar-1.8e9f0a3c.jpg",
+    "static/media/sidebar-2.jpg": "/dashboard-live/static/media/sidebar-2.310509c9.jpg",
+    "static/media/sidebar-3.jpg": "/dashboard-live/static/media/sidebar-3.25031690.jpg",
+    "static/media/sidebar-4.jpg": "/dashboard-live/static/media/sidebar-4.fc9cb053.jpg"
+  }
+}
